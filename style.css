@@ -1,0 +1,18 @@
+div {
+    position: absolute;
+    top: 20px;
+}
+
+
+#smth {
+    width: 126px;
+    padding: 23px;
+    margin: 10px;
+    border: 1px solid black;
+    top: 20px;
+    display: block;
+}
+
+/* button{
+
+} */
